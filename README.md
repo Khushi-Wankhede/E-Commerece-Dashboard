@@ -213,4 +213,4 @@ Understanding payment preferences allows businesses to optimize checkout process
 Monthly profit trends help management forecast demand, manage inventory, and plan promotional campaigns effectively.
 
 6. Screenshots
-   
+![Dashboard Preview](https://github.com/Khushi-Wankhede/E-Commerece-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png)  
